@@ -1,0 +1,74 @@
+[
+      {
+            "id": 0,
+            "chefName": "Li Mei",
+            "yearsOfExperience": 10,
+            "numRecipes": 50,
+            "likes": 1200,
+            "pictureUrl": "https://i.ibb.co/2K5SLhL/chef-4.jpg",
+            "bio": "Li Mei is a talented chef with 10 years of experience in Chinese cuisine. She specializes in creating flavorful and authentic dishes that delight the taste buds. With a repertoire of 50 unique recipes, Li Mei has gained a loyal following. Her passion for cooking and dedication to her craft shines through in every dish she prepares."
+      },
+      {
+            "id": 1,
+            "chefName": "Chen Wei",
+            "yearsOfExperience": 8,
+            "numRecipes": 40,
+            "likes": 900,
+            "pictureUrl": "https://i.ibb.co/bBkgShT/chef-5.jpg",
+            "bio": "Chen Wei is a seasoned chef with 8 years of experience in Chinese culinary arts. He has honed his skills by working in renowned restaurants and has developed a repertoire of 40 delectable recipes. Chen Wei's passion for food and commitment to excellence is evident in every dish he creates."
+      },
+      {
+            "id": 2,
+            "chefName": "Wang Tao",
+            "yearsOfExperience": 12,
+            "numRecipes": 60,
+            "likes": 1500,
+            "pictureUrl": "https://i.ibb.co/dJL1jb4/chef-6.jpg",
+            "bio": "Wang Tao is a highly skilled chef with a remarkable 12 years of experience in the culinary world. He has mastered the art of Chinese cooking and created an impressive collection of 60 unique recipes. Wang Tao's dedication to his craft and innovative approach to flavors have earned him widespread acclaim."
+      },
+      {
+            "id": 3,
+            "chefName": "Liu Yan",
+            "yearsOfExperience": 6,
+            "numRecipes": 30,
+            "likes": 700,
+            "pictureUrl": "https://i.ibb.co/KXLSVfM/chef-1.jpg",
+            "bio": "Liu Yan is a talented and dynamic chef with 6 years of experience in the world of Chinese cuisine. She has curated a diverse selection of 30 delicious recipes that showcase her creativity and passion for cooking. Liu Yan's innovative techniques and unique flavor combinations make her a rising star in the culinary scene."
+      },
+      {
+            "id": 4,
+            "chefName": "Zhang Wei",
+            "yearsOfExperience": 9,
+            "numRecipes": 45,
+            "likes": 1000,
+            "pictureUrl": "https://i.ibb.co/MDn4mqt/chef-2.jpg",
+            "bio": "Zhang Wei is a skilled chef with 9 years of experience in Chinese gastronomy. He has crafted an impressive collection of 45 delectable recipes that highlight his expertise and love for cooking. Zhang Wei's culinary creations never fail to impress, capturing the essence of traditional Chinese flavors with a modern twist."
+      },
+      {
+            "id": 5,
+            "chefName": "Yang Li",
+            "yearsOfExperience": 7,
+            "numRecipes": 35,
+            "likes": 800,
+            "pictureUrl": "https://i.ibb.co/T2nKYjb/chef-3.jpg",
+            "bio": "Yang Li is a passionate and innovative chef with 7 years of experience in Chinese cuisine. She has developed a repertoire of 35 exquisite recipes that showcase her creativity and dedication to her craft. Yang Li's commitment to using fresh, high-quality ingredients shines through in every dish she prepares."
+      },
+      {
+            "id": 6,
+            "chefName": "Xiao Chen",
+            "yearsOfExperience": 5,
+            "numRecipes": 25,
+            "likes": 600,
+            "pictureUrl": "https://i.ibb.co/P1ZMVDG/chef-8.jpg",
+            "bio": "Xiao Chen is a young and talented chef with 5 years of experience in the culinary industry. Despite her relatively short career, she has already developed an impressive collection of 25 unique recipes. Xiao Chen's passion for food and continuous exploration of flavors make her a rising star in the Chinese culinary scene."
+      },
+      {
+            "id": 7,
+            "chefName": "Zhou Yu",
+            "yearsOfExperience": 11,
+            "numRecipes": 55,
+            "likes": 1300,
+            "pictureUrl": "https://i.ibb.co/CWdS3Bq/chef-7.jpg",
+            "bio": "Zhou Yu is an experienced and highly skilled chef with 11 years of experience in Chinese gastronomy. He has curated an extensive collection of 55 delicious recipes that demonstrate his mastery of flavors and techniques. Zhou Yu's commitment to excellence and unwavering passion for cooking make him a revered figure in the culinary world."
+      }
+]
