@@ -1,8 +1,9 @@
 [
       {
+            "id":"0",
             "name": "Kung Pao Chicken",
             "chef_id": 0,
-            "food_image": "https://example.com/kung-pao-chicken.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Chicken",
                   "Peanuts",
@@ -14,9 +15,10 @@
             "rating": 4.5
       },
       {
+            "id":"1",
             "name": "General Tso's Chicken",
             "chef_id": 1,
-            "food_image": "https://example.com/general-tsos-chicken.jpg",
+            "food_image": "https://i.ibb.co/vX9WTr5/food-3.jpg",
             "ingredients": [
                   "Chicken",
                   "Soy Sauce",
@@ -28,9 +30,10 @@
             "rating": 4.2
       },
       {
+            "id":"2",
             "name": "Sweet and Sour Pork",
             "chef_id": 2,
-            "food_image": "https://example.com/sweet-and-sour-pork.jpg",
+            "food_image": "https://i.ibb.co/bsZTtLv/food-4.jpg",
             "ingredients": [
                   "Pork",
                   "Pineapple",
@@ -42,9 +45,10 @@
             "rating": 4.0
       },
       {
+            "id":"3",
             "name": "Mapo Tofu",
             "chef_id": 3,
-            "food_image": "https://example.com/mapo-tofu.jpg",
+            "food_image": "https://i.ibb.co/Lz9zdMr/food-1.jpg",
             "ingredients": [
                   "Tofu",
                   "Ground Pork",
@@ -56,9 +60,10 @@
             "rating": 4.3
       },
       {
+            "id":"4",
             "name": "Dim Sum",
             "chef_id": 4,
-            "food_image": "https://example.com/dim-sum.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Various ingredients for different types of dumplings, siu mai, and steamed buns"
             ],
@@ -66,9 +71,10 @@
             "rating": 4.6
       },
       {
+            "id":"5",
             "name": "Peking Duck",
             "chef_id": 5,
-            "food_image": "https://example.com/peking-duck.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Duck",
                   "Hoisin Sauce",
@@ -80,9 +86,10 @@
             "rating": 4.8
       },
       {
+            "id":"6",
             "name": "Gong Bao Shrimp",
             "chef_id": 6,
-            "food_image": "https://example.com/gong-bao-shrimp.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Shrimp",
                   "Cashews",
@@ -94,9 +101,10 @@
             "rating": 4.1
       },
       {
+            "id":"7",
             "name": "Ma Jiang Mian (Sesame Noodles)",
             "chef_id": 7,
-            "food_image": "https://example.com/ma-jiang-mian.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Noodles",
                   "Sesame Paste",
@@ -108,9 +116,10 @@
             "rating": 4.4
       },
       {
+            "id":"8",
             "name": "Hot and Sour Soup",
             "chef_id": 0,
-            "food_image": "https://example.com/hot-and-sour-soup.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg.jpg",
             "ingredients": [
                   "Mushrooms",
                   "Tofu",
@@ -122,9 +131,10 @@
             "rating": 4.2
       },
       {
+            "id":"9",
             "name": "Mongolian Beef",
             "chef_id": 1,
-            "food_image": "https://example.com/mongolian-beef.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Beef",
                   "Green Onions",
@@ -136,9 +146,10 @@
             "rating": 4.3
       },
       {
+            "id":"10",
             "name": "Sichuan Hot Pot",
             "chef_id": 2,
-            "food_image": "https://example.com/sichuan-hot-pot.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Broth",
                   "Various meats and vegetables",
@@ -149,9 +160,10 @@
             "rating": 4.7
       },
       {
+            "id":"11",
             "name": "Xiaolongbao (Soup Dumplings)",
             "chef_id": 3,
-            "food_image": "https://example.com/xiaolongbao.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Dough",
                   "Pork Filling",
@@ -161,9 +173,10 @@
             "rating": 4.9
       },
       {
+            "id":"12",
             "name": "Char Siu (Barbecued Pork)",
             "chef_id": 4,
-            "food_image": "https://example.com/char-siu.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Pork",
                   "Hoisin Sauce",
@@ -175,9 +188,10 @@
             "rating": 4.6
       },
       {
+            "id":"13",
             "name": "Crispy Fried Spring Rolls",
             "chef_id": 5,
-            "food_image": "https://example.com/crispy-fried-spring-rolls.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg.jpg",
             "ingredients": [
                   "Vegetables",
                   "Meat or Shrimp",
@@ -189,9 +203,10 @@
             "rating": 4.4
       },
       {
+            "id":"14",
             "name": "Wonton Soup",
             "chef_id": 6,
-            "food_image": "https://example.com/wonton-soup.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Wonton Wrappers",
                   "Ground Pork",
@@ -203,9 +218,10 @@
             "rating": 4.1
       },
       {
+            "id":"15",
             "name": "Beef with Broccoli",
             "chef_id": 7,
-            "food_image": "https://example.com/beef-with-broccoli.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Beef",
                   "Broccoli",
@@ -217,9 +233,10 @@
             "rating": 4.2
       },
       {
+            "id":"16",
             "name": "Hot and Sour Soup",
             "chef_id": 0,
-            "food_image": "https://example.com/hot-and-sour-soup.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg.jpg",
             "ingredients": [
                   "Mushrooms",
                   "Tofu",
@@ -231,9 +248,10 @@
             "rating": 4.2
       },
       {
+            "id":"17",
             "name": "Mongolian Beef",
             "chef_id": 1,
-            "food_image": "https://example.com/mongolian-beef.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Beef",
                   "Green Onions",
@@ -245,9 +263,10 @@
             "rating": 4.3
       },
       {
+            "id":"18",
             "name": "Sichuan Hot Pot",
             "chef_id": 2,
-            "food_image": "https://example.com/sichuan-hot-pot.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Broth",
                   "Various meats and vegetables",
@@ -258,9 +277,10 @@
             "rating": 4.7
       },
       {
+            "id":"19",
             "name": "Xiaolongbao (Soup Dumplings)",
             "chef_id": 3,
-            "food_image": "https://example.com/xiaolongbao.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Dough",
                   "Pork Filling",
@@ -270,9 +290,10 @@
             "rating": 4.9
       },
       {
+            "id":"20",
             "name": "Char Siu (Barbecued Pork)",
             "chef_id": 4,
-            "food_image": "https://example.com/char-siu.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Pork",
                   "Hoisin Sauce",
@@ -284,9 +305,10 @@
             "rating": 4.6
       },
       {
+            "id":"21",
             "name": "Crispy Fried Spring Rolls",
             "chef_id": 5,
-            "food_image": "https://example.com/crispy-fried-spring-rolls.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg.jpg",
             "ingredients": [
                   "Vegetables",
                   "Meat or Shrimp",
@@ -298,9 +320,10 @@
             "rating": 4.4
       },
       {
+            "id":"22",
             "name": "Wonton Soup",
             "chef_id": 6,
-            "food_image": "https://example.com/wonton-soup.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Wonton Wrappers",
                   "Ground Pork",
@@ -312,9 +335,10 @@
             "rating": 4.1
       },
       {
+            "id":"23",
             "name": "Beef with Broccoli",
             "chef_id": 7,
-            "food_image": "https://example.com/beef-with-broccoli.jpg",
+            "food_image": "https://i.ibb.co/SfYNR8H/food-2.jpg",
             "ingredients": [
                   "Beef",
                   "Broccoli",

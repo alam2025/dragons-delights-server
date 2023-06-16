@@ -32,6 +32,9 @@ app.get('/chefs/:id',async(req,res)=>{
 })
 
 //recipes api
+app.get('/recipes',async(req,res)=>{
+      res.send(recipes);
+})
 
 app.get('/chefs/recipes/:id',async(req,res)=>{
 const id = req.params.id;
@@ -44,6 +47,7 @@ else{
       res.send('There no recipe found.')
 }
 })
+
 
 
 app.listen(port, () => {
