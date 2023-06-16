@@ -3,6 +3,7 @@ const app = express()
 const cors= require('cors');
 const port =process.env.PORT || 3000
 const chefs = require('./data/chefs.json')
+const recipes = require('./data/recipes.json')
 
 // midleware 
 app.use(express.json());
@@ -28,6 +29,20 @@ app.get('/chefs/:id',async(req,res)=>{
       else{
             res.send('Not Found')
       }
+})
+
+//recipes api
+
+app.get('/chefs/recipes/:id',async(req,res)=>{
+const id = req.params.id;
+console.log(id);
+const chefRecipes= recipes.filter(recipe=>recipe.chef_id == id);
+if(chefRecipes){
+      res.send(chefRecipes)
+}
+else{
+      res.send('There no recipe found.')
+}
 })
 
 
