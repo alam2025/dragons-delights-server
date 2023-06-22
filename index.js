@@ -39,6 +39,16 @@ app.get('/chefs/:id',async(req,res)=>{
 app.get('/recipes',async(req,res)=>{
       res.send(recipes);
 })
+app.get('/popular-recipes',async(req,res)=>{
+      const selectedRecipe= recipes.filter(recipe=>recipe.rating > 4.5)
+      res.send(selectedRecipe);
+})
+
+app.get('/recipe/:id',async(req,res)=>{
+      const id = req.params.id;
+      const item = recipes.find(recipe=>recipe.id == id);
+      res.send(item)
+})
 
 app.get('/chefs/recipes/:id',async(req,res)=>{
 const id = req.params.id;
